@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onurkocaa" alt="onurkocaa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/onurkocaaa" target="blank"><img src="https://img.shields.io/twitter/follow/onurkocaaa?logo=twitter&style=for-the-badge" alt="onurkocaaa" /></a> </p>
-
 - 🌱 I’m currently learning **Asp.Net Core**
 
 - 📫 How to reach me **onurkoca.1347@gmail.com**
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onurkocaa&show_icons=true&locale=en&layout=compact" alt="onurkocaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurkocaa&show_icons=true&locale=en" alt="onurkocaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onurkocaa&" alt="onurkocaa" /></p>
